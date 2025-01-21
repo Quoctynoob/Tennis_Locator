@@ -8,7 +8,7 @@ const About = () => {
     };
 
     return (
-        <section id="about" className="text-black bg-emerald-200 w-full h-screen p-8 snap-start flex flex-col lg:flex-row justify-between items-center">
+        <section id="about" className="text-black bg-green-50 w-full h-screen p-8 snap-start flex flex-col lg:flex-row justify-between items-center">
             
             <div className="w-1/2 p-11">
                 <div className=" text-black text-7xl font-bold font-sans">About Us</div>

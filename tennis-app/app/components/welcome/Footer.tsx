@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="bg-green-100 p-4 text-black w-full snap-start">
+    <footer className="bg-emerald-200 p-4 text-black w-full snap-start">
       <div className="container mx-auto flex flex-col lg:flex-row justify-between items-center">
         <span className='text-center text-l mb-4 lg:mb-0'>Quoc Le</span>
         <div className='flex space-x-4'>
